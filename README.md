@@ -1,8 +1,8 @@
-## Pythonic Desktop Tools
+## Account Finder
 
 ### _I had recently started some Python tutorials for learning and so this project is for reference_
 
-#### This repo is a working reference project. This program searches CSV files and will eventually include JSON and text files.
+#### This repo is a working reference project. This program searches Chrome browser's exported password CSV file for login credentials.
 
 ---
 
