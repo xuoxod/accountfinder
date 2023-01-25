@@ -24,7 +24,7 @@ vers = "%prog 0.1"
 
 
 def error_handler(*args):
-    line = cus(255, 121, 121, "Error:{}".format(lsep))
+    line = cus(255, 121, 121, "Error!")
 
     for i, a in enumerate(args):
         if i < (len(args) - 1):
